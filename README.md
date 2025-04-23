@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Working on: **iOS pizza delivery app** with **Telegram bot support**
+- 🔭 I work as a **programming teacher** at **IQ007 school**
 - 🌱 Learning: **SwiftUI**, **Combine**, **MVVM**, and more
 - 💬 Ask me about: **Swift**, **UIKit**, **app-to-bot integrations**
 

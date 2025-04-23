@@ -31,8 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dan1xdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan1xdev&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dan1xdev&theme=tokyonight&hide_border=true&border_radius=20"/>
@@ -40,12 +39,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🧾 [**iOS Pizza Delivery App**](https://github.com/dan1xdev/pizza-app-ios) — Swift-based app with Telegram order handling
-- 🛠️ [**UI Components Kit**](https://github.com/dan1xdev/ui-kit-swift) — Custom components for iOS projects
-
----
 
 ### 📬 Let's Connect
 

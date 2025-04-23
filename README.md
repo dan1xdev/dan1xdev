@@ -10,7 +10,7 @@
 - 🔭 Working on: **iOS pizza delivery app** with **Telegram bot support**
 - 🌱 Learning: **SwiftUI**, **Combine**, **MVVM**, and more
 - 💬 Ask me about: **Swift**, **UIKit**, **app-to-bot integrations**
-- ⚡ Fun fact: I debug code better than I debug my sleep schedule 😅
+
 
 ---
 

@@ -27,18 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dan1xdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="170"/>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dan1xdev&theme=tokyonight&hide_border=true&border_radius=20"/>
-</p>
-
----
-
 
 ### 📬 Let's Connect
 

@@ -9,7 +9,6 @@
 
 - 🔭 I work as a **programming teacher** at **IQ007 school**
 - 🌱 Learning: **SwiftUI**, **Combine**, **MVVM**, and more
-- 💬 Ask me about: **Swift**, **UIKit**, **app-to-bot integrations**
 
 
 ---

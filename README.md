@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Daniil <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">👨‍💻 iOS Developer | 🎓 Student at Moscow Polytechnic University</h3>
+<h3 align="center">👨‍💻 iOS Developer | 🎓 Student at Moscow Polytechnic University & School 21 (ex-42)</h3>
 <h4 align="center">Turning coffee into code and ideas into real iOS apps ☕📱</h4>
 
 ---
@@ -8,8 +8,8 @@
 ### 🚀 About Me
 
 - 🔭 I work as a **programming teacher** at **IQ007 school**
-- 🌱 Learning: **SwiftUI**, **Combine**, **MVVM**, and more
-
+- 🌱 Currently studying at **School 21 (formerly School 42)**, the peer-to-peer learning coding school
+- 💡 Learning: **SwiftUI**, **Combine**, **MVVM**, and more
 
 ---
 
@@ -22,11 +22,9 @@
   <img src="https://img.shields.io/badge/SwiftUI-0D1117?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  
 </p>
 
 ---
-
 
 ### 📬 Let's Connect
 

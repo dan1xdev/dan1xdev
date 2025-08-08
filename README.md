@@ -9,7 +9,6 @@
 
 - 🔭 I work as a **programming teacher** at **IQ007 school**
 - 🌱 Currently studying at **School 21 (formerly School 42)**, the peer-to-peer learning coding school
-- 💡 Learning: **SwiftUI**, **Combine**, **MVVM**, and more
 
 ---
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Daniil <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">👨‍💻 iOS Developer | 🎓 Student at Moscow Polytechnic University & School 21 (ex-42)</h3>
+<h3 align="center">👨‍💻Yandex Alice Mobile Developer | 🎓 Student at Moscow Polytechnic University & School 21 (ex-42)</h3>
 
 ---
 
